@@ -20,3 +20,7 @@ This Python script turns any color image into a cool black &amp; white version u
 **4. After running the code it will look like this :-**
 
 ![image](https://github.com/user-attachments/assets/d52e5206-5726-4fc7-bb8d-501def3d0ada)
+
+**5. The image will saved on Desktop :-**
+
+![Untitled](https://github.com/user-attachments/assets/e468b2e6-cf9c-43be-8ab1-13d454515554)
